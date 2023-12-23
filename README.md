@@ -1,1 +1,2 @@
-# mutt-configs
+mutt-configs
+============
